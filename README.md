@@ -8,3 +8,9 @@ This Repository is for Create REST API of node and connect it with mongo db.
          npm -v for check npm version
 
 3. Create app.js
+
+4. Type command -> npm init and fill the details.
+
+5. Type command -> npm install express to setup routing.
+
+6. RUN command -> node app.js for start node application.
