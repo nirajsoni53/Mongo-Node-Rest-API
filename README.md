@@ -1,7 +1,7 @@
 # Mongo-Node-Rest-API
 This Repository is for Create REST API of node and connect it with mongo db.
 
-<b>Installation Steps:<b>
+<h2>Installation Steps:</h2>
 
    1. Install Node.js from https://nodejs.org/en/download/
 
