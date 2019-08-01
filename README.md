@@ -1,22 +1,35 @@
 # Mongo-Node-Rest-API
 This Repository is for Create REST API of node and connect it with mongo db.
 
-<h2>Installation Steps:</h2>
+## Requirements:
 
-   1. Install Node.js from https://nodejs.org/en/download/
-
-   2. Create app.js file
-
+   - Node and NPM
+   - Mongo DB
 
 
-<h2>Require Commands: #require</h2>
 
-   1. Check Node verion: `node -v`
+## Require Librery Commands:
 
-   2. Check NPM verion:  `npm -v`
+   - Install Node.js from [Node.js](https://nodejs.org/en/download/)
 
-   3. Create Package.json: `npm init`
+   - Check Node verion: `node -v`
 
-   4. Install Express: `npm install express`
+   - Check NPM verion:  `npm -v`
 
-   5. Run node application: `node app.js`
+   - Create Package.json: `npm init`
+
+   - Install Express: `npm install express`
+
+   - Run node application: `node app.js`
+
+   - Install body parser: `npm install body-parser`
+
+   - Install nodemon: `npm install nodemon`
+
+   - Run app with nodemon: `npm run dev`
+
+
+
+## Testing the API
+
+Test your API using [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop) 
