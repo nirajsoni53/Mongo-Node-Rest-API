@@ -11,8 +11,16 @@ This Repository is for Create REST API of node and connect it with mongo db.
 
    3. Create app.js
 
-   4. Type command -> npm init and fill the details.
 
-   5. Type command -> npm install express to setup routing.
 
-   6. RUN command -> node app.js for start node application.
+<h2>Require Commands: #require</h2>
+
+   1. Check Node verion: <code style="background-color:gray"> node -v </code>
+
+   2. Check NPM verion: <code style="background-color:gray"> npm -v </code>
+
+   3. Create Package.json: <code style="background-color:gray"> npm init </code>
+
+   4. Install Express: <code style="background-color:gray"> npm install express </code>
+
+   5. Run node application: <code style="background-color:gray"> node app.js </code>
