@@ -11,12 +11,12 @@ This Repository is for Create REST API of node and connect it with mongo db.
 
 <h2>Require Commands: #require</h2>
 
-   1. Check Node verion: <code id="require1" style="background-color:gray"> node -v </code>
+   1. Check Node verion: `node -v`
 
-   2. Check NPM verion: <code id="require2" style="background-color:gray"> npm -v </code>
+   2. Check NPM verion:  `npm -v`
 
    3. Create Package.json: `npm init`
 
-   4. Install Express: <code style="background-color:gray"> npm install express </code>
+   4. Install Express: `npm install express`
 
-   5. Run node application: <code style="background-color:gray"> node app.js </code>
+   5. Run node application: `node app.js`
