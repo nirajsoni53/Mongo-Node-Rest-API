@@ -5,11 +5,7 @@ This Repository is for Create REST API of node and connect it with mongo db.
 
    1. Install Node.js from https://nodejs.org/en/download/
 
-   2. For check version after Install Node.js type below commands
-         <a href="#require1"> #require 1 </a>
-         <a href="#require2"> #require 2 </a>
-
-   3. Create app.js file
+   2. Create app.js file
 
 
 
@@ -19,7 +15,7 @@ This Repository is for Create REST API of node and connect it with mongo db.
 
    2. Check NPM verion: <code id="require2" style="background-color:gray"> npm -v </code>
 
-   3. Create Package.json: <code style="background-color:gray"> npm init </code>
+   3. Create Package.json: `npm init`
 
    4. Install Express: <code style="background-color:gray"> npm install express </code>
 
